@@ -1,0 +1,26 @@
+
+*{
+  background-color: #88A3C2;
+}
+h1{
+  color: #A87A76;
+  border: solid 1px;
+ border-color: #88A3C2;
+  border-radius: 10px;
+  padding-left: 50px;
+  background-color: #FBFFE6;
+  font-family: 'Ruge Boogie', cursive;
+}
+
+h2{
+  font-family: 'Ruge Boogie', cursive;
+  color: #A87A76;
+
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50px;
+}
